@@ -1,0 +1,10 @@
+# Godot auto-generated files
+.godot/
+*.uid
+
+# Large template files (not needed in repo)
+*.tpz
+
+# OS files
+.DS_Store
+Thumbs.db
